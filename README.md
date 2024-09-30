@@ -30,7 +30,7 @@
 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal34712&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true" alt="kushal34712" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+## *Connect with me:*
 <p align="left">
 <a href="https://twitter.com/kushal_347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushal_347" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kushal-agrawal347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushal-agrawal347" height="30" width="40" /></a>
