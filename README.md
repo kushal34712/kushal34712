@@ -7,9 +7,10 @@
 
 <p align="left">
   <a href="https://twitter.com/kushal_347" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kushal_347?logo=twitter&style=for-the-badge&label=Follow&color=blue&logoColor=white" alt="kushal_347" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter Logo" width="40px" />
   </a>
 </p>
+
 
 
 
