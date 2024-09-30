@@ -14,6 +14,7 @@
  
   
 
+## <picture><img src="Hacker.gif" width=50px></picture> *About Me:*
 
 - 🔭 I’m currently working on [Btecky Website](https://www.btecky.tech/)
 
