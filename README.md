@@ -38,6 +38,7 @@
 <a href="https://linkedin.com/in/kushal-agrawal347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushal-agrawal347" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/btecky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="btecky" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kushalg79a/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushalg79a/profile" height="30" width="40" /></a>
+ <a href="https://discord.gg/kushal_agrawal347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kushal_agrawal347" height="30" width="40" /></a>
 </p>
 
 ## *Languages and Tools:*
