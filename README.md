@@ -5,8 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/kushal_347" target="blank"><img src="https://img.shields.io/twitter/follow/kushal_347?logo=twitter&style=for-the-badge" alt="kushal_347" /></a> </p>
 
+<p align="left">
+  <a href="https://twitter.com/kushal_347" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/kushal_347?logo=twitter&style=for-the-badge&label=Follow&color=blue&logoColor=white" alt="kushal_347" />
+  </a>
+</p>
+
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal34712&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true" alt="kushal34712" /></a> </p>
+
+
 
 - 🔭 I’m currently working on [Btecky Website](https://www.btecky.tech/)
 
