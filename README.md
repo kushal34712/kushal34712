@@ -14,7 +14,7 @@
  
   
 
-## <picture><img src="Hacker.gif" width=50px></picture> *About Me:*
+## *About Me:*
 
 - 🔭 I’m currently working on [Btecky Website](https://www.btecky.tech/)
 
@@ -23,6 +23,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/kushal34712](https://github.com/kushal34712)
 
 - 📫 How to reach me **kushalag347@gmail.com**
+
+## *Trophy:*
 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal34712&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true" alt="kushal34712" /></a> </p>
 
