@@ -7,17 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/kushal_347" target="blank"><img src="https://img.shields.io/twitter/follow/kushal_347?logo=twitter&style=for-the-badge" alt="kushal_347" /></a> </p>
 
-<p align="left">
-  <a href="https://twitter.com/kushal_347" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter Logo" width="40px" />
-  </a>
-</p>
-
-
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal34712&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true" alt="kushal34712" /></a> </p>
 
 
 <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%;">
@@ -33,6 +22,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/kushal34712](https://github.com/kushal34712)
 
 - 📫 How to reach me **kushalag347@gmail.com**
+
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal34712&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true" alt="kushal34712" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
