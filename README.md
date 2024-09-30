@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kushal34712](https://github.com/kushal34712)
 
-- I am Video Editior at [Btecky Youtube](https://www.youtube.com/@btecky)
+- 💻 I am Video Editior at [Btecky Youtube](https://www.youtube.com/@btecky)
 
 - 📫 How to reach me **kushalag347@gmail.com**
 
