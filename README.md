@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal34712&label=Profile%20views&color=0e75b6&style=flat" alt="kushal34712" /> </p>
 
+
+
 <p align="left"> <a href="https://twitter.com/kushal_347" target="blank"><img src="https://img.shields.io/twitter/follow/kushal_347?logo=twitter&style=for-the-badge" alt="kushal_347" /></a> </p>
 
 <p align="left">
@@ -17,6 +19,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal34712&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true" alt="kushal34712" /></a> </p>
 
+
+<img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%;">
+
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&pause=1000&color=F7F7F7&width=435&lines=Hi+There+👋;I'm+Ayush+Jhawar" alt="Typing SVG" /></a><br>  
+
+  
+  <img src="https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/tenor-1143559285-ezgif.com-gif-maker.gif" style="width: 10%; display: flex;" data-target="animated-image.originalImage"> 
+</h1>
 
 
 - 🔭 I’m currently working on [Btecky Website](https://www.btecky.tech/)
