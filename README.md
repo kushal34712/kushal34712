@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal Agrawal</h1>
 <h3 align="center">A Developer from India</h3>
 
-[![Contribute Now](https://img.shields.io/badge/Contribute%20Now-brightgreen?style=flat&logo=github)](https://github.com/your-repo-url/CONTRIBUTING.md)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal34712&label=Profile%20views&color=0e75b6&style=flat" alt="kushal34712" /> </p>
 
