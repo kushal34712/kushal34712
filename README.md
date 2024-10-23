@@ -18,6 +18,8 @@
 
 ## *About Me:*
 
+<h5>
+
 - 🔭 I’m currently working on [Btecky Website](https://www.btecky.tech/)
 
 - 🤝 I’m looking for help with [Arcade Helper](https://arcadehelper.tech/)
@@ -29,6 +31,8 @@
 - 💬 Ask me about HTML, CSS, Javascript
 
 - 📫 How to reach me **kushalag347@gmail.com**
+
+</h5>
 
 ## *Trophy:*
 
