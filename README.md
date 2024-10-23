@@ -18,7 +18,7 @@
 
 ## *About Me:*
 
-<h5>
+<h3>
 
 - 🔭 I’m currently working on [Btecky Website](https://www.btecky.tech/)
 
@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **kushalag347@gmail.com**
 
-</h5>
+</h3>
 
 ## *Trophy:*
 
