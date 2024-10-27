@@ -76,7 +76,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a>
 </div>
 
-## *Stats*
+## *Stats:*
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal34712&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="kushal34712" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal34712&show_icons=true&locale=en&theme=react&border_radius=10" alt="kushal34712" /></p>
